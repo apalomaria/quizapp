@@ -1,0 +1,12 @@
+.body {
+  background-color: #c3c3c3;
+  background-image: url(../img/walkdead.jpg);
+  font-weight: bold;
+  font-size: 20px;
+  background-size: 90%;
+  color: yellow;
+
+.bob {
+  color: white;
+  text-align: center;
+}
